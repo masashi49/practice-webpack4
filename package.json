@@ -1,0 +1,28 @@
+{
+  "name": "practice-webpack4",
+  "version": "1.0.0",
+  "description": "＃practice-webpack4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/test/practice-webpack4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/test/practice-webpack4/issues"
+  },
+  "homepage": "https://github.com/test/practice-webpack4#readme",
+  "devDependencies": {
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11",
+    "webpack-dev-server": "^3.10.3"
+  },
+  "private": true
+}
